@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        // hello git
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 //
